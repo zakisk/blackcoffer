@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blackcoffer</string>
+
+<!--    bottom navigation screens name -->
+    <string name="refine">Refine</string>
+    <string name="explore">Explore</string>
+    <string name="network">Network</string>
+    <string name="chat">Chat</string>
+    <string name="contacts">Contacts</string>
+
+<!--    refine screen strings-->
+    <string name="select_availability">Select Your Availability</string>
+    <string name="add_your_status">Add Your Status</string>
+    <string name="select_distance">Select Hyper Local Distance</string>
+    <string name="select_purpose">Select Purpose</string>
+    <string name="save_and_explore">Save &#x26; Explore</string>
+</resources>
